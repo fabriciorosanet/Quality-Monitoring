@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QualityMonitoring", "QualityMonitoring.csproj", "{C455F7D0-720A-4454-984D-479057051A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C455F7D0-720A-4454-984D-479057051A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C455F7D0-720A-4454-984D-479057051A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C455F7D0-720A-4454-984D-479057051A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C455F7D0-720A-4454-984D-479057051A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B0DA0E-F827-4A50-AC6C-388CAB9C935C}
+	EndGlobalSection
+EndGlobal
