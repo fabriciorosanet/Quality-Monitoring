@@ -3210,11 +3210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\engfa\\Desktop\\QualityMonitoring\\QualityMonitoring\\QualityMonitoring\\QualityMonitoring.csproj",
+      "projectUniqueName": "C:\\Users\\engfa\\Source\\Repos\\Quality-Monitoring\\QualityMonitoring.csproj",
       "projectName": "QualityMonitoring",
-      "projectPath": "C:\\Users\\engfa\\Desktop\\QualityMonitoring\\QualityMonitoring\\QualityMonitoring\\QualityMonitoring.csproj",
+      "projectPath": "C:\\Users\\engfa\\Source\\Repos\\Quality-Monitoring\\QualityMonitoring.csproj",
       "packagesPath": "C:\\Users\\engfa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\engfa\\Desktop\\QualityMonitoring\\QualityMonitoring\\QualityMonitoring\\obj\\",
+      "outputPath": "C:\\Users\\engfa\\Source\\Repos\\Quality-Monitoring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\engfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
